@@ -17,7 +17,9 @@ Connect the ST-LINK to your laptop.
 
 Step 2: Install ST-LINK Drivers
 .Open STM32 folder STM32 Folder
+
                      └── Drivers
+                           
                            └── dpinst_amd64.exe (install it).
 .Run dpinst_amd64.exe and complete the installation.
 
@@ -45,7 +47,7 @@ Step 2: Open The Bootloader File
 
 4.Open Target --> Settings 
 
-5.Make Sure That You Set Your Frequency *4.0* MHz
+5.Make Sure That You Set Your Frequency to *4.0* MHz
 
 ![checking](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a02f552d2c006a4d1e0e2a5e5230c3c6a10b79bd/Guide-images/checking.png)
 
