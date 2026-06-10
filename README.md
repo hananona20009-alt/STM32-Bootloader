@@ -16,8 +16,11 @@ Download link: [https://www.youtube.com/redirect?event=video_description&redir_t
 Connect the ST-LINK to your laptop.
 
 Step 2: Install ST-LINK Drivers
+
 Open STM32 folder STM32 Folder
+                     
                      └── Drivers 
+                          
                           └── dpinst_amd64.exe (install it).
 .Run dpinst_amd64.exe and complete the installation.
 
