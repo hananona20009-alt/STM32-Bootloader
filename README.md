@@ -1,5 +1,5 @@
 # STM32_setup_guide
- • This Guide Explains How To flash The STM32 Bootloader Using An ST-LINK Programmer.
+ • This Guide Explains How To program The STM32 Bootloader Using An ST-LINK Programmer.
  
 **1.Connect The ST-LINK Pins To The STM32 Board As Shown Below.**
 ![stlink_connection](https://github.com/hananona20009-alt/STM32-Bootloader/blob/ae8d48a4974332923e0dd0246060e04a755f8698/Guide-images/stlink_connection.jpg))
