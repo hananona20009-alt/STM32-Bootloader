@@ -62,5 +62,5 @@ Step 3:✅Program The bootloader
 ![program_verify](https://github.com/hananona20009-alt/STM32-Bootloader/blob/5ac1f1734d542ad1bca4fc7e367297f982137865/Guide-images/program_verify.png)
 
 
-After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader🤸‍♀️🥳🎉
+***After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader🤸‍♀️🥳🎉***
 
