@@ -33,7 +33,7 @@ Step 3:💻Install Additional Drivers
 
 ![install_driver](https://github.com/hananona20009-alt/STM32-Bootloader/blob/c6740c6c98844ec55f770ee7ce5691e74fd5867b/Guide-images/install_driver.jpg)
 
-** 🛠️3.Upload The Bootloader using ST-LINK Utility**
+**🛠️3.Upload The Bootloader using ST-LINK Utility**
 
  Step 1: Install STM32 ST-LINK Utility v4.6.0 --> Setup
 
