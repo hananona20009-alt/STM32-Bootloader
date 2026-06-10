@@ -45,7 +45,7 @@ Step 2: 📂Open The Bootloader File
  
 1.Click File --> Open File
 
-2.Navigate to The STM32 Folder
+2.Go to The STM32 Folder
 
 3.select: generic_boot20_pc13
 
