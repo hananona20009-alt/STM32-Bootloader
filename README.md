@@ -15,7 +15,7 @@ open STM32 ST-LINK utility v4.6.0 -> setup
 search on your search bar for "STM32 ST-LINK utility" and open it then File-> open file-> go to STM-32 Folder -> Select generic_boot20_pc13, Make sure that frequency is *4.0* from target-> settings 
 ![Image6](https://github.com/hananona20009-alt/STM32-Bootloader/blob/afd86913b6815b7e2966085661734c4251a04c59/Guide-images/image6.png)
 Then click on program verify 
-![Image7]()
+![Image7](https://github.com/hananona20009-alt/STM32-Bootloader/blob/34d841de41c2d95f7923c265696a44200038c8fc/Guide-images/image7.png)
 
 
 
