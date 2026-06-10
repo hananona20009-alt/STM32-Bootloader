@@ -1,12 +1,12 @@
-# STM32_setup_guide
+#🚀STM32_setup_guide
  • This Guide Explains How To program The STM32 Bootloader Using An ST-LINK Programmer.
  
-**1.Connect The ST-LINK Pins To The STM32 Board As Shown Below.**
+**🔌1.Connect The ST-LINK Pins To The STM32 Board As Shown Below.**
 ![stlink_connection](https://github.com/hananona20009-alt/STM32-Bootloader/blob/ae8d48a4974332923e0dd0246060e04a755f8698/Guide-images/stlink_connection.jpg)
 
-**2.Install The Required Drivers.**
+**📥2.Install The Required Drivers.**
 
-Step 1: Download The STM32 Package.
+Step 1:📦Download The STM32 Package.
 
  •Download And Extract the STM32.zip Folder.
  
@@ -15,7 +15,7 @@ Download link: [https://www.youtube.com/redirect?event=video_description&redir_t
  ![driver_package](https://github.com/hananona20009-alt/STM32-Bootloader/blob/09166a6de138ee114eb6ac4e3e3e38867a73488a/Guide-images/driver_package.png)
 Connect the ST-LINK to your laptop.
 
-Step 2: Install ST-LINK Drivers
+Step 2:⚙️Install ST-LINK Drivers
 
 • Open STM32 folder
                      
@@ -27,19 +27,19 @@ Step 2: Install ST-LINK Drivers
 ![stlink_utility](https://github.com/hananona20009-alt/STM32-Bootloader/blob/86b09e3d48f3175248058997e60f2cd30e730548/Guide-images/stlink_utility.jpg)
 
 
-Step 3: Install Additional Drivers
+Step 3:💻Install Additional Drivers
 
  • Open The "Win" Folder And Install The Required drivers.
 
 ![install_driver](https://github.com/hananona20009-alt/STM32-Bootloader/blob/c6740c6c98844ec55f770ee7ce5691e74fd5867b/Guide-images/install_driver.jpg)
 
-**3.Upload The Bootloader using ST-LINK Utility**
+** 🛠️3.Upload The Bootloader using ST-LINK Utility**
 
  Step 1: Install STM32 ST-LINK Utility v4.6.0 --> Setup
 
 ![setup](https://github.com/hananona20009-alt/STM32-Bootloader/blob/32b6f10f1c7124270207aa60032682e3a6035145/Guide-images/setup.png)
 
-Step 2: Open The Bootloader File
+Step 2: 📂Open The Bootloader File
 
  • Open STM32 ST-LINK utility And  follow These Steps:
  
@@ -55,12 +55,12 @@ Step 2: Open The Bootloader File
 
 ![checking](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a02f552d2c006a4d1e0e2a5e5230c3c6a10b79bd/Guide-images/checking.png)
 
-Step 3: Program The bootloader
+Step 3:✅Program The bootloader
 
  • Click on "program & verify" and wait for the process to complete
 
 ![program_verify](https://github.com/hananona20009-alt/STM32-Bootloader/blob/5ac1f1734d542ad1bca4fc7e367297f982137865/Guide-images/program_verify.png)
 
 
-After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader
+After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader🤸‍♀️🥳🎉
 
