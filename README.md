@@ -13,7 +13,6 @@ Step 1: Download The STM32 Package.
 Download link: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3dfV1lobkoxYzhxaldSZTFaR1lKenlaRnhnQXxBQ3Jtc0trdmJURTdRRFBLZTFKN0UzNERXTi1VSTVVQ19KdUFWWFk0SFBfWXIzUmhwNTdUU3F3NmF3U3hLZmJ6NWFvZ0RfbHpZY09nUm5WZUwxUm4yUi1BOUJNVFJrdkczZmNKVFBmX29XYmswc2N3RWNObWktdw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1fVquLLnsXQLfVI3k2A7MiQdaYENsQ0Mo%2F&v=HnB7RTHa2Rw&html_redirect=1] 
 
  ![driver_package](https://github.com/hananona20009-alt/STM32-Bootloader/blob/09166a6de138ee114eb6ac4e3e3e38867a73488a/Guide-images/driver_package.png)
-
 Connect the ST-LINK to your laptop.
 
 Step 2: Install ST-LINK Drivers
