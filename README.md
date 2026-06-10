@@ -5,16 +5,26 @@
 download the driver and then extract the STM32.zip folder
 link: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3dfV1lobkoxYzhxaldSZTFaR1lKenlaRnhnQXxBQ3Jtc0trdmJURTdRRFBLZTFKN0UzNERXTi1VSTVVQ19KdUFWWFk0SFBfWXIzUmhwNTdUU3F3NmF3U3hLZmJ6NWFvZ0RfbHpZY09nUm5WZUwxUm4yUi1BOUJNVFJrdkczZmNKVFBmX29XYmswc2N3RWNObWktdw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1fVquLLnsXQLfVI3k2A7MiQdaYENsQ0Mo%2F&v=HnB7RTHa2Rw&html_redirect=1]
 ![Image2](https://github.com/hananona20009-alt/STM32-Bootloader/blob/228dd5ca837065dd0b76616b6bada344dfd889f3/Guide-images/image2.png)
+
 open STM32 folder -> Drivers -> dpinst_amd64 (install it)
+
 ![Image3](https://github.com/hananona20009-alt/STM32-Bootloader/blob/825155f3fe2c3e7b6d37db01c30f6e4b1735d4a5/Guide-images/image3.jpg)
+
 click on "win" folder and install drivers
+
 ![Image4](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a5562c2326d392862cdc3ae7a2bb63f1a46a59a4/Guide-images/image4.jpg)
+
 ###3.St-link utility
+
 open STM32 ST-LINK utility v4.6.0 -> setup
+
 ![Image5](https://github.com/hananona20009-alt/STM32-Bootloader/blob/9ff2cd3d423b2a0cc8feffd3993f0440dde8278b/Guide-images/image5.png)
-search on your search bar for "STM32 ST-LINK utility" and open it then File-> open file-> go to STM-32 Folder -> Select generic_boot20_pc13, Make sure that frequency is *4.0* from target-> settings 
+search on your search bar for "STM32 ST-LINK utility" and open it then File-> open file-> go to STM-32 Folder -> Select generic_boot20_pc13, Make sure that frequency is *4.0* from target-> settings
+
 ![Image6](https://github.com/hananona20009-alt/STM32-Bootloader/blob/afd86913b6815b7e2966085661734c4251a04c59/Guide-images/image6.png)
-Then click on program verify 
+
+Then click on program verify
+
 ![Image7](https://github.com/hananona20009-alt/STM32-Bootloader/blob/34d841de41c2d95f7923c265696a44200038c8fc/Guide-images/image7.png)
 
 
