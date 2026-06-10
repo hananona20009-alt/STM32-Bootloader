@@ -47,7 +47,7 @@ Step 2: Open The Bootloader File
 
 5.Make Sure That You Set Your Frequency *4.0* MHz
 
-![image6](https://github.com/hananona20009-alt/STM32-Bootloader/blob/afd86913b6815b7e2966085661734c4251a04c59/Guide-images/image6.png)
+![checking](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a02f552d2c006a4d1e0e2a5e5230c3c6a10b79bd/Guide-images/checking.png)
 
 Step 3: Program The bootloader
 Click on "program & verify" and wait for the process to complete
