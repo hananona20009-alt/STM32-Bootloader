@@ -1,6 +1,6 @@
 # STM32_setup
 ## 1.place the pins in the lower line of the st-link
-![image1](image1.jpg)
+![image1](https://github.com/hananona20009-alt/STM32-Bootloader/blob/3ae77af538d8cccd8e49573bebea67f20d11b227/Guide-images/image1.jpg)
 ### 2.connect the st-link to your pc
 download the driver and then extract the STM32.zip folder
 link: [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3dfV1lobkoxYzhxaldSZTFaR1lKenlaRnhnQXxBQ3Jtc0trdmJURTdRRFBLZTFKN0UzNERXTi1VSTVVQ19KdUFWWFk0SFBfWXIzUmhwNTdUU3F3NmF3U3hLZmJ6NWFvZ0RfbHpZY09nUm5WZUwxUm4yUi1BOUJNVFJrdkczZmNKVFBmX29XYmswc2N3RWNObWktdw&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1fVquLLnsXQLfVI3k2A7MiQdaYENsQ0Mo%2F&v=HnB7RTHa2Rw&html_redirect=1]
