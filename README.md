@@ -17,7 +17,7 @@ Connect the ST-LINK to your laptop.
 
 Step 2: Install ST-LINK Drivers
 
-Open STM32 folder STM32 Folder
+Open STM32 folder
                      
                      └── Drivers 
                           
