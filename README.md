@@ -56,9 +56,11 @@ Step 2: Open The Bootloader File
 ![checking](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a02f552d2c006a4d1e0e2a5e5230c3c6a10b79bd/Guide-images/checking.png)
 
 Step 3: Program The bootloader
+
  • Click on "program & verify" and wait for the process to complete
 
 ![program_verify](https://github.com/hananona20009-alt/STM32-Bootloader/blob/5ac1f1734d542ad1bca4fc7e367297f982137865/Guide-images/program_verify.png)
 
-After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader👏
+
+After The Programming Process Finishes Successfully, The STM32 Is Ready To Be Used With The Bootloader
 
