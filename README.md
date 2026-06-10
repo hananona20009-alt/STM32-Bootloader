@@ -28,6 +28,7 @@ Step 2: Install ST-LINK Drivers
 
 
 Step 3: Install Additional Drivers
+
  • Open The "Win" Folder And Install The Required drivers.
 
 ![install_driver](https://github.com/hananona20009-alt/STM32-Bootloader/blob/c6740c6c98844ec55f770ee7ce5691e74fd5867b/Guide-images/install_driver.jpg)
