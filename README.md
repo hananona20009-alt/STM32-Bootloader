@@ -17,18 +17,18 @@ Connect the ST-LINK to your laptop.
 
 Step 2: Install ST-LINK Drivers
 
-Open STM32 folder
+• Open STM32 folder
                      
                      └── Drivers 
                           
                           └── dpinst_amd64.exe (install it).
-.Run dpinst_amd64.exe and complete the installation.
+• Run dpinst_amd64.exe and complete the installation.
 
 ![stlink_utility](https://github.com/hananona20009-alt/STM32-Bootloader/blob/86b09e3d48f3175248058997e60f2cd30e730548/Guide-images/stlink_utility.jpg)
 
 
 Step 3: Install Additional Drivers
-Open The "Win" Folder And Install The Required drivers.
+ • Open The "Win" Folder And Install The Required drivers.
 
 ![install_driver](https://github.com/hananona20009-alt/STM32-Bootloader/blob/c6740c6c98844ec55f770ee7ce5691e74fd5867b/Guide-images/install_driver.jpg)
 
@@ -39,7 +39,8 @@ Open The "Win" Folder And Install The Required drivers.
 ![setup](https://github.com/hananona20009-alt/STM32-Bootloader/blob/32b6f10f1c7124270207aa60032682e3a6035145/Guide-images/setup.png)
 
 Step 2: Open The Bootloader File
- Open STM32 ST-LINK utility And  follow These Steps:
+
+ • Open STM32 ST-LINK utility And  follow These Steps:
  
 1.Click File --> Open File
 
@@ -54,7 +55,7 @@ Step 2: Open The Bootloader File
 ![checking](https://github.com/hananona20009-alt/STM32-Bootloader/blob/a02f552d2c006a4d1e0e2a5e5230c3c6a10b79bd/Guide-images/checking.png)
 
 Step 3: Program The bootloader
-Click on "program & verify" and wait for the process to complete
+ • Click on "program & verify" and wait for the process to complete
 
 ![program_verify](https://github.com/hananona20009-alt/STM32-Bootloader/blob/5ac1f1734d542ad1bca4fc7e367297f982137865/Guide-images/program_verify.png)
 
